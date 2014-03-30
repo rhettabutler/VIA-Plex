@@ -2,9 +2,9 @@
 <metadata>
     <name>Plex</name>
     <version>0.0.22</version>
-    <identifier>com.atessmer.widgets.tv.plexapp</identifier>
-    <author name="Alex Tessmer" organization="" href="http://github.com/atessmer" />
-    <copyright>2013 Alex Tessmer</copyright>
+    <identifier>com.butler.widgets.tv.plexapp</identifier>
+    <author name="Rhett Butler" organization="" href="http://github.com/rhettabutler" />
+    <copyright>2014 Butler</copyright>
     <description>Plex App</description>
     <platform minVersion="5.0" />
     <security>
